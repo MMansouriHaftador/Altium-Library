@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Active Components\Active Components.LibPkg
+[Project2]
+ProjectPath=Connectors\Connectors.LibPkg
+[Project3]
+ProjectPath=Passive Components\Passive Components.LibPkg
