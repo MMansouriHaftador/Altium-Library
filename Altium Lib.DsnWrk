@@ -1,8 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Active Components\Active Components.LibPkg
+ProjectPath=..\2- Project\P206\206_FM33\P206_FM33.PrjPcb
 [Project2]
-ProjectPath=Connectors\Connectors.LibPkg
-[Project3]
-ProjectPath=Passive Components\Passive Components.LibPkg
+ProjectPath=..\2- Project\Programmer\2- PCB\Programmer\Programmer.PrjPcb
