@@ -1,0 +1,222 @@
+Removed Parameter Company:E.P.I.L from Part Logo
+Removed Parameter Design Date:11/6/2011 from Part Logo
+Removed Parameter Designer:M.Amani from Part R?
+Removed Parameter LastRevisionDate:2007 from Part R?
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R?
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R?
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R?
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R?
+Removed Parameter Package:* from Part RR?
+Removed Parameter PackageDescription:Axial Device, Thru-Hole; 2 Leads; 0.7 in Pin Spacing from Part R?
+Removed Parameter PackageReference:AXIAL-0.7 from Part R?
+Removed Parameter PackageReference:ResArray-8 from Part R?
+Removed Parameter PackageReference:VR5 from Part R?
+Removed Parameter Published:8-Jun-2000 from Part R?
+Removed Parameter Published:8-Jun-2000 from Part R?
+Removed Parameter Publisher:Altium Limited from Part R?
+Removed Parameter Publisher:Altium Limited from Part R?
+Removed Parameter Publisher:Kosha Electronic Limited from Part R?
+Removed Parameter PublisherLinkURL:http://www.koshanic.com from Part R?
+Removed Parameter Set Position:0.5 from Part R?
+Removed Parameter Set Position:0.5 from Part R?
+Removed Parameter Sim Note:Enter the Resistance value and the set point into parameter fields. from Part R?
+Change Component Parameter Comment in DS? Old= New==Value
+Change Component Parameter Comment in DS? Old= New==Value
+Change Component Parameter Comment in DS? Old= New==Value
+Change Component Parameter Comment in DS? Old= New==Value
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Comment in C? Old= New==Value
+Change Component Parameter Comment in X? Old= New==Value
+Change Component Parameter Comment in * Old= New==Value
+Change Component Parameter Comment in * Old= New==Value
+Change Value of Parameter Value in Part LCD? Old= New=GLCD
+Change Component Parameter Comment in R? Old= New==Value
+Change Component Parameter Comment in RR? Old= New==Value
+Change Component Parameter Comment in RR? Old= New==Value
+Change Component Parameter Comment in S? Old= New==Value
+Change Component Parameter Comment in S? Old= New==Value
+Change Component Parameter Comment in S? Old= New==Value
+Change Component Parameter Component Kind in Logo Old=Standard (No BOM) New=Standard
+Change Component Parameter Comment in VDR? Old= New==Value
+Added Parameter SMD Code= to Part DS?
+Added Parameter SMD Code= to Part DS?
+Added Parameter SMD Code= to Part DS?
+Added Parameter SMD Code= to Part DS?
+Added Parameter SMD Code= to Part B?
+Added Parameter SMD Code= to Part SP?
+Added Parameter SMD Code= to Part C?
+Added Parameter SMD Code= to Part C?
+Added Parameter SMD Code= to Part C?
+Added Parameter SMD Code= to Part C?
+Added Parameter SMD Code= to Part U?
+Added Parameter SMD Code= to Part X?
+Added Parameter SMD Code= to Part X?
+Added Parameter SMD Code= to Part Disp?
+Added Parameter SMD Code= to Part FB?
+Added Parameter SMD Code= to Part F?
+Added Parameter SMD Code= to Part L?
+Added Parameter SMD Code= to Part *
+Added Parameter SMD Code= to Part LCD?
+Added Parameter SMD Code= to Part *
+Added Parameter SMD Code= to Part LCD?
+Added Parameter SMD Code= to Part LCD?
+Added Parameter SMD Code= to Part LCD?
+Added Parameter SMD Code= to Part D?
+Added Parameter SMD Code= to Part R?
+Added Parameter SMD Code= to Part R?
+Added Parameter SMD Code= to Part K?
+Added Parameter SMD Code= to Part Relay?
+Added Parameter SMD Code= to Part K?
+Added Parameter SMD Code= to Part K?
+Added Parameter SMD Code= to Part RR?
+Added Parameter SMD Code= to Part R?
+Added Parameter SMD Code= to Part R?
+Added Parameter SMD Code= to Part S?
+Added Parameter SMD Code= to Part S?
+Added Parameter SMD Code= to Part S?
+Added Parameter SMD Code= to Part Logo
+Added Parameter SMD Code= to Part T?
+Added Parameter SMD Code= to Part T?
+Added Parameter SMD Code= to Part T?
+Added Parameter SMD Code= to Part T?
+Added Parameter SMD Code= to Part VDR?
+Added Parameter SMD Code= to Part R?
+Added Parameter Specification=- to Part DS?
+Added Parameter Specification=- to Part DS?
+Added Parameter Specification=- to Part DS?
+Added Parameter Specification=- to Part DS?
+Added Parameter Specification=- to Part B?
+Added Parameter Specification=- to Part SP?
+Added Parameter Specification=- to Part C?
+Added Parameter Specification=- to Part C?
+Added Parameter Specification=- to Part C?
+Added Parameter Specification=- to Part C?
+Added Parameter Specification=- to Part U?
+Added Parameter Specification=- to Part X?
+Added Parameter Specification=- to Part X?
+Added Parameter Specification=- to Part Disp?
+Added Parameter Specification=- to Part FB?
+Added Parameter Specification=- to Part F?
+Added Parameter Specification=- to Part L?
+Added Parameter Specification=- to Part *
+Added Parameter Specification=- to Part LCD?
+Added Parameter Specification=- to Part *
+Added Parameter Specification=- to Part LCD?
+Added Parameter Specification=- to Part LCD?
+Added Parameter Specification=- to Part LCD?
+Added Parameter Specification=- to Part D?
+Added Parameter Specification=- to Part R?
+Added Parameter Specification=- to Part R?
+Added Parameter Specification=- to Part K?
+Added Parameter Specification=- to Part Relay?
+Added Parameter Specification=- to Part K?
+Added Parameter Specification=- to Part K?
+Added Parameter Specification=- to Part RR?
+Added Parameter Specification=- to Part R?
+Added Parameter Specification=- to Part R?
+Added Parameter Specification=- to Part S?
+Added Parameter Specification=- to Part S?
+Added Parameter Specification=- to Part S?
+Added Parameter Specification=- to Part Logo
+Added Parameter Specification=- to Part T?
+Added Parameter Specification=- to Part T?
+Added Parameter Specification=- to Part T?
+Added Parameter Specification=- to Part T?
+Added Parameter Specification=- to Part VDR?
+Added Parameter Specification=- to Part R?
+Added Parameter Specification=='Array Resistors ' + Value + ' ohms ' +Tolerance  + '  -55°C ~ 155°C' to Part RR?
+Added Parameter Tolerance=?% to Part DS?
+Added Parameter Tolerance=?% to Part DS?
+Added Parameter Tolerance=?% to Part DS?
+Added Parameter Tolerance=?% to Part DS?
+Added Parameter Tolerance=?% to Part B?
+Added Parameter Tolerance=?% to Part SP?
+Added Parameter Tolerance=?% to Part C?
+Added Parameter Tolerance=?% to Part C?
+Added Parameter Tolerance=?% to Part C?
+Added Parameter Tolerance=?% to Part C?
+Added Parameter Tolerance=?% to Part U?
+Added Parameter Tolerance=?% to Part X?
+Added Parameter Tolerance=?% to Part X?
+Added Parameter Tolerance=?% to Part Disp?
+Added Parameter Tolerance=?% to Part FB?
+Added Parameter Tolerance=?% to Part F?
+Added Parameter Tolerance=?% to Part L?
+Added Parameter Tolerance=?% to Part *
+Added Parameter Tolerance=?% to Part LCD?
+Added Parameter Tolerance=?% to Part *
+Added Parameter Tolerance=?% to Part LCD?
+Added Parameter Tolerance=?% to Part LCD?
+Added Parameter Tolerance=?% to Part LCD?
+Added Parameter Tolerance=?% to Part D?
+Added Parameter Tolerance=?% to Part R?
+Added Parameter Tolerance=?% to Part R?
+Added Parameter Tolerance=?% to Part K?
+Added Parameter Tolerance=?% to Part Relay?
+Added Parameter Tolerance=?% to Part K?
+Added Parameter Tolerance=?% to Part K?
+Added Parameter Tolerance=?% to Part R?
+Added Parameter Tolerance=?% to Part R?
+Added Parameter Tolerance=?% to Part S?
+Added Parameter Tolerance=?% to Part S?
+Added Parameter Tolerance=?% to Part S?
+Added Parameter Tolerance=?% to Part Logo
+Added Parameter Tolerance=?% to Part T?
+Added Parameter Tolerance=?% to Part T?
+Added Parameter Tolerance=?% to Part T?
+Added Parameter Tolerance=?% to Part T?
+Added Parameter Tolerance=?% to Part VDR?
+Added Parameter Tolerance=?% to Part R?
+Added Parameter Value=7SEG to Part DS?
+Added Parameter Value=7SEG to Part DS?
+Added Parameter Value=7SEG to Part DS?
+Added Parameter Value=7SEG to Part DS?
+Added Parameter Value=7SEG to Part *
+Added Parameter Value=LCD NHD-C0220BiZ-FSW-FBW-3 to Part *
+Added Parameter Value=Sign Arrow to Part S?
+Added Parameter Value=Sign ESD to Part S?
+Added Parameter Value=Sign High Voltage to Part S?
+Added Parameter Warehouse Number= to Part DS?
+Added Parameter Warehouse Number= to Part DS?
+Added Parameter Warehouse Number= to Part DS?
+Added Parameter Warehouse Number= to Part DS?
+Added Parameter Warehouse Number= to Part B?
+Added Parameter Warehouse Number= to Part SP?
+Added Parameter Warehouse Number= to Part C?
+Added Parameter Warehouse Number= to Part C?
+Added Parameter Warehouse Number= to Part C?
+Added Parameter Warehouse Number= to Part C?
+Added Parameter Warehouse Number= to Part U?
+Added Parameter Warehouse Number= to Part X?
+Added Parameter Warehouse Number= to Part X?
+Added Parameter Warehouse Number= to Part Disp?
+Added Parameter Warehouse Number= to Part FB?
+Added Parameter Warehouse Number= to Part F?
+Added Parameter Warehouse Number= to Part L?
+Added Parameter Warehouse Number= to Part *
+Added Parameter Warehouse Number= to Part LCD?
+Added Parameter Warehouse Number= to Part *
+Added Parameter Warehouse Number= to Part LCD?
+Added Parameter Warehouse Number= to Part LCD?
+Added Parameter Warehouse Number= to Part LCD?
+Added Parameter Warehouse Number= to Part D?
+Added Parameter Warehouse Number= to Part R?
+Added Parameter Warehouse Number= to Part R?
+Added Parameter Warehouse Number= to Part K?
+Added Parameter Warehouse Number= to Part Relay?
+Added Parameter Warehouse Number= to Part K?
+Added Parameter Warehouse Number= to Part K?
+Added Parameter Warehouse Number= to Part RR?
+Added Parameter Warehouse Number= to Part R?
+Added Parameter Warehouse Number= to Part R?
+Added Parameter Warehouse Number= to Part S?
+Added Parameter Warehouse Number= to Part S?
+Added Parameter Warehouse Number= to Part S?
+Added Parameter Warehouse Number= to Part Logo
+Added Parameter Warehouse Number= to Part T?
+Added Parameter Warehouse Number= to Part T?
+Added Parameter Warehouse Number= to Part T?
+Added Parameter Warehouse Number= to Part T?
+Added Parameter Warehouse Number= to Part VDR?
+Added Parameter Warehouse Number= to Part R?
